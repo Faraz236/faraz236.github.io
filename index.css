@@ -37,7 +37,7 @@ b{
   justify-content: center;  /* centers the links horizontally */
   gap: 20px;                /* space between links */
   padding: 10px 0;
-  flex-wrap: nowrap;           /* prevent wrapping to next line /* optional padding top/bottom */
+  flex-wrap: nowrap;           /* prevent wrapping to next line, optional padding top/bottom */
 }
 
 
